@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SocialLogin</string>
+    <string name="logout">Logout</string>
+    <string name="facebook_app_id">139072996645636</string>
+    <string name="fb_login_protocol_scheme">fb139072996645636</string>
+
+</resources>
